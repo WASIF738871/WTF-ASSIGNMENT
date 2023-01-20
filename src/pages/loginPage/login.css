@@ -1,0 +1,23 @@
+
+.login{
+    background-color: rgb(230, 28, 28);
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+.email-password{
+    width: 50vw;
+    margin: 15px;
+    padding: 32px;
+    border-radius: 9px;
+    background: rgb(182, 31, 31);
+    
+}
+
+.img{
+    width: 50vw;
+    margin: 15px;
+}
+img{
+    border-radius: 8px;
+}

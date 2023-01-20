@@ -1,0 +1,22 @@
+
+.about{
+    display: flex;
+    background: black;
+    color: white;
+}
+.about .main-1{
+    margin-bottom: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    background: red;
+    border: 2px solid red;
+    border-radius: 15px;
+}
+.about .main-2 div{
+    margin-bottom: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    background: red;
+    border: 2px solid red;
+    border-radius: 15px;
+}

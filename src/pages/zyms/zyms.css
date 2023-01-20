@@ -1,0 +1,23 @@
+.head img{
+    width: 100vw;
+}
+.head{
+    position: relative;
+    color: white;
+}
+.head .left{
+    position: absolute;
+    font-size: 34vh;
+    font-style:oblique;
+    top: 5%;
+    left: 10%;
+    color: white;
+}
+.head .right{
+    position: absolute;
+    font-size: 23vh;
+    font-weight: bold;
+    bottom: 38%;
+    right: 15%;
+    color: brown;
+}
