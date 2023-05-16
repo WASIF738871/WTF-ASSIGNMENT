@@ -12,6 +12,8 @@ import Partners from './pages/partners/partner';
 import About from './pages/about/about';
 
 
+lkjakljhfjdsakhjdfahjkhagkhgghfdjjhajh
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
